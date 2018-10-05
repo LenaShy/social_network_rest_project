@@ -1,0 +1,15 @@
+bin/
+include/
+lib/
+lib64/
+pip-selfcheck.json
+*.cfg
+db.sqlite3
+
+.idea
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*/__pycache__/
+*.py[cod]
+.pyc

@@ -3,7 +3,7 @@ chardet==3.0.4
 clearbit==0.1.7
 Django==2.1.2
 django-markdown-deux==1.0.5
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 idna==2.7
 Markdown==3.0.1
